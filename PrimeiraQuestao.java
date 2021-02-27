@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class primeiraquestao {
+public class PrimeiraQuestao {
 
     public static void main(String[]args){
         System.out.println("Programação I");
@@ -10,7 +10,7 @@ public class primeiraquestao {
         System.out.println("                O objetivo dessa disciplina é compreender os conceitos fundamentais");
         System.out.println("                do paradigma de programação orientada a objetos e aplicá-los no");
         System.out.println("                desenvolvimento de soluções de software.");
-        System.out.println("    -   Turno : Vespertino");
+        System.out.println("    -   Turno : Noturno");
     }
 
 }
