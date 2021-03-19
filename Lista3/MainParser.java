@@ -15,7 +15,7 @@ class Parser{
   }
 }
 
-class Main {
+class MainParser {
   public static void main(String[] args) {
     String vet[] = {"token" , "humor" , "token" , "token" , "hb20" , "linda"};    
     System.out.println("Retorno:" + Parser.analize(vet));
